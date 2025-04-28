@@ -65,7 +65,7 @@ It will open a Gradio interface where you can upload an image, tune parameters, 
 
 ## Example
 
-1. Upload an image.
+1. Upload an image. Sample image is provided in the repository.
 2. Increase **Sigma** to add stronger noise.
 3. Adjust **Wavelet** and **Level** to get better denoising.
 4. Download noisy and denoised images.
