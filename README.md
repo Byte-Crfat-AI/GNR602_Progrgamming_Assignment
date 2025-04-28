@@ -46,10 +46,10 @@ This project provides an interactive web app to visualize the addition of Gaussi
 Run the app:
 
 ```bash
-python app.py
+python gradio_ui.py
 ```
 
-(Replace `app.py` with your actual file name if different.)
+(Replace `gradio_ui.py` with your actual file name if different.)
 
 It will open a Gradio interface where you can upload an image, tune parameters, and visualize the results.
 
